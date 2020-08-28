@@ -14,12 +14,14 @@ Preparamos essa lista de exercícios **NÃO OBRIGATÓRIOS** para vocês aquecere
 
 1. Adicione um botão "limpar" que, ao ser clicado, apaga a listagem de moedas.
 
-2. Adicione um input do tipo number que permite que a pessoa usuária digite um valor para ser multiplicado pelos valores das moedas.
+2. Ordene a lista de moedas por ordem alfabética.
+
+3. Adicione um input do tipo number que permite que a pessoa usuária digite um valor para ser multiplicado pelos valores das moedas.
 
 > Por exemplo, se a moeda base é EUR, ao digitar o número 2, você deverá
 > exibir quanto vale 2 euros em cada moeda.
 
-3. Adicione um novo input de texto, com a label "Filtrar", que permite filtrar a listagem pela moeda digitada
+4. Adicione um novo input de texto, com a label "Filtrar", que permite filtrar a listagem pela moeda digitada
 	-  Ao digitar uma moeda válida e clicar em "Pesquisar", exibe o valor da moeda filtrada. Por exemplo, se estão sendo exibidos os valores da moeda USD, ao digitar BRL, você deve exibir apenas o valor de BRL em relação a USD.
 	- Ao digitar uma moeda não existente e clicar em "Pesquisar", exibe um alerta dizendo "Moeda inválida".
 ### Bônus
